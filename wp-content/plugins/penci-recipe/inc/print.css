@@ -1,0 +1,116 @@
+/* = Penci Recipe
+----------------------------------------------------*/
+/** Raleway font **/
+@import url(//fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900,200,100);
+
+/** PT Serif font **/
+@import url(//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext,latin-ext,cyrillic);
+body {
+    font-family: 'PT Serif', serif;
+    color: #313131;
+    background-color: #FFF;
+    font-size: 14px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.penci-recipe {
+	border: 1px solid #dedede;
+	padding: 18px 25px 6px;
+	margin-bottom: 25px;
+	margin-top: 20px;
+}
+.penci-recipe-heading {
+	border-bottom: 1px solid #dedede;
+	margin: 0 -25px 25px -25px;
+	padding: 0 25px 20px;
+	overflow: hidden;
+}
+.post-entry .penci-recipe-heading h2 {
+	font-size: 22px;
+	float: left;
+	color: #313131;
+	margin-bottom: 8px;
+	clear: none;
+}
+.penci-recipe-heading a.penci-recipe-print {
+	display: none;
+}
+.penci-recipe-heading a.penci-recipe-print:hover {
+	background: #6eb48c;
+	color: #fff;
+	border-color: #6eb48c;
+	text-decoration: none;
+}
+.penci-recipe-heading .penci-recipe-meta {
+	clear: both;
+	color: #888;
+	font-size: 12px;
+	line-height: 1.5;
+}
+.penci-recipe-heading .penci-recipe-meta span {
+	margin-right: 15px;
+}
+.penci-recipe-heading .penci-recipe-meta span.servings {
+	margin-right: 0;
+}
+.penci-recipe-heading .penci-recipe-meta span i {
+	font-size: 14px;
+	margin-right: 4px;
+	color: #aaa;
+}
+.post-entry .penci-recipe-title {
+	font-size: 14px;
+	color: #888;
+	margin-bottom: 18px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.penci-recipe-ingredients {
+	border-bottom: 1px solid #dedede;
+	margin: 0 -25px 25px -25px;
+	padding: 0 20px 30px;
+}
+.penci-recipe-ingredients ul {
+	margin: 0;
+	padding-left: 18px;
+}
+.penci-recipe-ingredients ul li {
+	padding-bottom: 6px;
+	line-height: 1.6;
+	list-style: none;
+	position: relative;
+}
+.penci-recipe-ingredients ul li:before {
+	content: "";
+	position: absolute;
+	width: 5px;
+	height: 5px;
+	border: 1px solid #b3b3b3;
+	display: inline-block;
+	top: 8px;
+	left: -18px;
+	transform: rotate(-13deg);
+	-webkit-transform: rotate(-13deg);
+}
+.penci-recipe-ingredients ul li:last-child{
+	margin: 0;
+	padding: 0;
+}
+.penci-recipe-notes {
+	border-top: 1px solid #dedede;
+	margin: 10px -25px 0;
+	padding: 25px 25px 10px;
+}
+.post-entry p{
+	margin-bottom: 17px;
+}
+.post-entry .penci-recipe-notes p {
+	margin: 0;
+}
+.penci-recipe-notes .penci-recipe-title {
+	margin-bottom: 8px;
+}

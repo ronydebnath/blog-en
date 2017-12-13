@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Penci Portfolio v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-11-17 04:16:45+0000\n"
+"Last-Translator: admin <youremail@domain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Your language\n"
+"X-Poedit-Country: YOUR COUNTRY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: inc/portfolio.php:12
+#: inc/portfolio.php:19
+#@ pencidesign
+msgid "All"
+msgstr ""
+
+#: inc/portfolio.php:81
+#: inc/taxonomy-portfolio-category.php:44
+#@ pencidesign
+msgid "No Thumbnail"
+msgstr ""
+
+#: inc/single-portfolio.php:14
+#: inc/taxonomy-portfolio-category.php:14
+#@ pencidesign
+msgid "Home"
+msgstr ""
+
+#: inc/single-portfolio.php:54
+#@ soledad
+msgid "Share"
+msgstr ""
+
+#: inc/single-portfolio.php:63
+#@ soledad
+msgid "Facebook"
+msgstr ""
+
+#: inc/single-portfolio.php:64
+#@ soledad
+msgid "Twitter"
+msgstr ""
+
+#: inc/single-portfolio.php:65
+#@ soledad
+msgid "Google +"
+msgstr ""
+
+#: inc/single-portfolio.php:66
+#@ soledad
+msgid "Pinterest"
+msgstr ""
+
+#: init.php:96
+#: init.php:108
+#@ pencidesign
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+#: init.php:97
+#@ pencidesign
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: init.php:98
+#@ pencidesign
+msgid "Add New"
+msgstr ""
+
+#: init.php:99
+#@ pencidesign
+msgid "Add New Project"
+msgstr ""
+
+#: init.php:100
+#@ pencidesign
+msgid "Edit Project"
+msgstr ""
+
+#: init.php:101
+#@ pencidesign
+msgid "New Project"
+msgstr ""
+
+#: init.php:102
+#@ pencidesign
+msgid "All Projects"
+msgstr ""
+
+#: init.php:103
+#@ pencidesign
+msgid "View Portfolio"
+msgstr ""
+
+#: init.php:104
+#@ pencidesign
+msgid "Search Portfolio"
+msgstr ""
+
+#: init.php:105
+#@ pencidesign
+msgid "No projects found"
+msgstr ""
+
+#: init.php:106
+#@ pencidesign
+msgid "No projects found in Trash"
+msgstr ""
+
+#: init.php:134
+#@ pencidesign
+msgctxt "taxonomy general name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: init.php:135
+#@ pencidesign
+msgctxt "taxonomy singular name"
+msgid "Portfolio Category"
+msgstr ""
+
+#: init.php:136
+#@ pencidesign
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: init.php:137
+#@ pencidesign
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: init.php:138
+#@ pencidesign
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: init.php:139
+#@ pencidesign
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: init.php:140
+#@ pencidesign
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: init.php:141
+#@ pencidesign
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: init.php:142
+#@ pencidesign
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: init.php:143
+#@ pencidesign
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: init.php:144
+#@ pencidesign
+msgid "Portfolio Category"
+msgstr ""
+
